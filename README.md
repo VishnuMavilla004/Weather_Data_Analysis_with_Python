@@ -38,7 +38,7 @@ This project performs exploratory data analysis (EDA) on weather data using Pyth
 
 ## 📁 Project Structure
 
-* `notebook/` → Jupyter Notebook
+* `notebook/` → Google Colab
 * `data/` → Dataset (if applicable)
 
 ---
